@@ -12,5 +12,8 @@ See you there!
 Day-1:
 https://powerbiweek.com/sales-dashboard-lesson01/
 
-Day-2
+Day-2:
 https://powerbiweek.com/data-viz-lesson02/
+
+Day-3:
+https://powerbiweek.com/dax-ranking-lesson03/
