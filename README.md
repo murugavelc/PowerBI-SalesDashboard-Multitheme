@@ -12,3 +12,6 @@ Sales dashboard with multi-colour theme
 
 ## All in one animation:
 ![Screenshot](Screenshot/gif/all-in-one.gif)
+
+## Sales Ranking:
+![Screenshot](Screenshot/SalesRanking-Dark.PNG)
