@@ -17,3 +17,6 @@ https://powerbiweek.com/data-viz-lesson02/
 
 Day-3:
 https://powerbiweek.com/dax-ranking-lesson03/
+
+Web URL:
+https://app.powerbi.com/groups/me/reports/cb4d5c86-5da0-45dc-843c-c513012a85d8/ReportSectiona635e6b7b20a253e0158
